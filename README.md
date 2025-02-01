@@ -18,7 +18,7 @@ Obs.: Não é necessário refletir dados sobre os alunos!
 
 ## 📑 Resultado:
 
-Após trabalho foi disponibilizado para entrega [Modelo Dimencional](Star_Schema-Desafio_Modelagem_Dimensional-professor.png).
+Após trabalho foi disponibilizado para entrega [Modelo Dimensional](Star_Schema-Desafio_Modelagem_Dimensional-professor.png).
 <hr/>
 
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
