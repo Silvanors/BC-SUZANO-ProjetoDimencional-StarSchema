@@ -1,5 +1,5 @@
 
-#  Projeto Modelo Dimencional: Star Schema
+#  Projeto Modelo Dimensional: Star Schema
 
 ## 📑 Objetivo:
 
@@ -18,7 +18,7 @@ Obs.: Não é necessário refletir dados sobre os alunos!
 
 ## 📑 Resultado:
 
-Após trabalho foi disponibilizado para entrega [Modelo Dimencional](Star_Schema-Desafio_Modelagem_Dimencional-professor.png).
+Após trabalho foi disponibilizado para entrega [Modelo Dimencional](Star_Schema-Desafio_Modelagem_Dimensional-professor.png).
 <hr/>
 
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
