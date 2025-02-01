@@ -1,19 +1,24 @@
 
-#  Refinando um Projeto Conceitual de Banco de Dados: E-COMMERCE
-
+#  Projeto Modelo Dimencional: Star Schema
 
 ## 📑 Objetivo:
 
-Refine o modelo apresentado [E-commerce](E-commerce.png) acrescentando os seguintes pontos:<br/>
+* Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+
+  Foco:
+
+Professor – objeto de análise
+
+* Vocês irão montar o esquema em estrela com o foco na análise dos dados dos professores. Sendo assim, a tabela fato deve refletir diversos dados sobre professor, cursos ministrados, departamento ao qual faz parte.... Por aí vocês já têm uma ideia do que deve compor a tabela fato do modelo em questão.
+
+Obs.: Não é necessário refletir dados sobre os alunos!
 <br/>
-* Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-* Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-* Entrega – Possui status e código de rastreio;
-<br/>
+
+
 
 ## 📑 Resultado:
 
-Após trabalho no refinamento do modelo foi disponibilizado para entrega [E-commerce_refinado](E-commerce_refinado.png).
+Após trabalho foi disponibilizado para entrega [Modelo Dimencional](Star_Schema-Desafio_Modelagem_Dimencional-professor.png).
 <hr/>
 
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
