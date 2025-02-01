@@ -3,7 +3,7 @@
 
 ## 📑 Objetivo:
 
-* Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+* Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado [descrição](Descrição_do_Desafio.docx).
 
   Foco:
 
